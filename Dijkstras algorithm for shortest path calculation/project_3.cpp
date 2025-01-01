@@ -1,24 +1,3 @@
-/***********************************************
-************CSCI-311-PROJECT-3-V-1011***********
-************************************************
-*******CODE-CHECKER-STARTING-ALIGNMENT**********
-************************************************
-*************CONTROL-NUMBER-XA-73***************
-************************************************
-**REPORT-GENERATION-MODE-AUTO_SYNC-EXCEPTION-2**
-************************************************
-*****************DATETIME-SYS*******************
-************************************************/
-
-//G1_EXCEPTION: Only produce your code as directed in Section A, B, C, and D1_EXCEPTION.
-//G2_EXCEPTION: Do not write anything at the other places in this file.
-//D1_EXCEPTION: Put you names here (on this line):________Alejandro Barajas___________
-
-/***********************************************
-*************SECTION-A-HEADERS******************
-************************************************/
-//SECTION_A_START: put your header files here using the include directive.
-//G3_EXCEPTION: You can also declare using standard namespace if you like, but do not use any global variable or method.
 #include <iostream>
 #include <numeric>
 #include <vector>
@@ -32,7 +11,6 @@ using namespace std;
 /***********************************************
 *************SECTION-B-CLASSES******************
 ************************************************/
-//SECTION_B_START: put all your classes definitions here.
 class Node{
         public:
                 int id; // id of the city
@@ -343,7 +321,6 @@ bool verifyPath(Graph G, vector<int> path, int i, int c)
 /***********************************************
 *************SECTION-C-MAIN-FUNCTION************
 ************************************************/
-//SECTION_C_START: write your main function here.
 int main()
 {
         // four space seperated integers for the first line
@@ -403,16 +380,4 @@ int main()
 //SECTION_C_END: Section C ends here. 
 /***********************************************
 ************SECTION-C-MAIN-FUNCTION-END*********
-************************************************/
-
-/***********************************************
-**************PLAGIARISM-RTNG-PRTCL-C***********
-****************GEN-AI-RTNG-PRTCL-K*************
-*********LOOP-CS_SEC-CS_CHR-STU_R_R_RFR*********
-*****************DICT-A-ENTRY-1011**************
-***************ORI-KTIAN@CSUCHICO.EDU***********
-************************************************/
-
-/***********************************************
-*********CODE-CHECKER-ENDING-ALIGNMENT**********
 ************************************************/
