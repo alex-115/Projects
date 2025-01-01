@@ -1,6 +1,4 @@
 // filename: Triangle.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file builds the triangle shape
 #include "triangle.h"
 #include <iostream>
