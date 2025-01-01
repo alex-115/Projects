@@ -14,13 +14,9 @@
     (4) After all the input has been read, all the shapes are drawn 
        onto a grid object.
 ***/
-
+using name std;
 #include <iostream>
 #include <vector>
-using namespace std;
-
-// you have to provide all of these files
-// they can be empty to start with so you can get the Makefile to work
 #include "shape.h"
 #include "triangle.h"
 #include "circle.h"
