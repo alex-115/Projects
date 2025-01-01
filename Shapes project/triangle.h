@@ -1,7 +1,5 @@
 // filename: Triangle.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
-// Short summary of the file contents: This file contains the contents of the triangle header file that is also a derived class of shape
+// Short summary of the file contents: This file contains the contents of the triangle header file which is also a derived class of shape
 #ifndef TRIANGLE_H
 #define TRIANGLE_H
 #include "shape.h"
