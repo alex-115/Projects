@@ -1,6 +1,4 @@
 // filename: Circle.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the functions of creating the circle and drawing it out based on the x and y input
 #include "circle.h"
 #include <iostream>
