@@ -1,6 +1,4 @@
 // filename: data.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the function that prints out the data
 #include "data.h"
 #include <iostream>
