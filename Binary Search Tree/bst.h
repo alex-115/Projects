@@ -1,6 +1,4 @@
 // filename: BST.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the functions of a binary search tree. There are also comments that indicate the private helper functions. 
 #ifndef BST_H
 #define BST_H
