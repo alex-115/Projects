@@ -1,6 +1,4 @@
 // filename: data.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the contents of a class called Data. The data is the data of a day from the Chico weather station
 #ifndef DATA_H
 #define DATA_H
