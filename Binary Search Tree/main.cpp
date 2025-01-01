@@ -1,6 +1,4 @@
 // filename: main.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: this file will read and execute commands for a binary search tree from standard input. The insert function inserts a string 
 // into the tree. The echo function is used for commenting. The size function returns the size of the tree. The find function finds a string you type from the tree.
 // The print function prints the tree nodes in alphabetical order. The distance function prints out the average distance of nodes from the root. 
