@@ -1,4 +1,4 @@
-# Makefile for 211 weather program assignment
+# Makefile 
 ADT: data.o main.o ADT.o
 	 g++ -Wall -pedantic -g -o ADT data.o main.o ADT.o
 
