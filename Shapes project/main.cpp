@@ -14,7 +14,7 @@
     (4) After all the input has been read, all the shapes are drawn 
        onto a grid object.
 ***/
-using name std;
+using namespace std;
 #include <iostream>
 #include <vector>
 #include "shape.h"
