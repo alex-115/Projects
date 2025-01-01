@@ -1,6 +1,4 @@
 // filename:Square.h
-// your name (first and last): Alejandro Barakas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the functions to create and draw the square
 #ifndef SQUARE_H
 #define SQUARE_H
