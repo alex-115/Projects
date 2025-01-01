@@ -1,6 +1,4 @@
 // filename: Circle.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This contains the constructor of circle and a draw function to draw out the circle
 #ifndef CIRCLE_H
 #define CIRCLE_H
