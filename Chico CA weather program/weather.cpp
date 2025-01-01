@@ -1,20 +1,6 @@
-/*
- weather.cpp
- Shelley Wong (swong26)
- Last updated: Sep 20, 2023
 
- This program can be used to convert a CSV file with NOAA climate data to an
- input file that uses a format similar to the input (.in) files we have used in
- CSCI 211 programming assignments (e.g. Video descriptions where the title, url,
- comment, length, and rating are all on different lines). In the commands below,
- I am starting with the `chico-weather-2018-2022.csv` file, and the converted
- output is put into a file called `converted.in` (using .in to indicate that
- this file can be used as input for your Final Project program).
-
- You can compile and run this program with the following commands:
- $ g++ -std=c++11 -o weather weather.cpp
- $ ./weather chico-weather-2018-2022.csv converted.in
-*/
+/* This program can be used to convert a CSV file with NOAA climate data to an
+ input file that uses a format similar to the input (.in) files */
 #include <iostream>  // cin, cout, cerr, getline, endl
 #include <fstream>  // ifstream, ofstream
 #include <sstream>  // istringstream
