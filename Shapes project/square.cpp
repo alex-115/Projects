@@ -1,6 +1,4 @@
 // filename:Square.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file executes the functions to create and draw out the square
 #include "square.h"
 #include <iostream>
