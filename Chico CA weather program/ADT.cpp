@@ -1,6 +1,4 @@
 // filename: ADT.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the functions of the ADT.h file. Each function has different commands for the linked list. 
 #include "ADT.h"
 #include "data.h"
