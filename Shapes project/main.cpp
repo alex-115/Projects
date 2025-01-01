@@ -1,19 +1,4 @@
-/***
-    main() program for the 211 drawing program (p6) 
 
-    (1) Reads in shape descriptions, for example 
-
-            square 10 10 4
-
-    (2) Creates a shape object for each shape description, for example
-
-            new Square(10, 10, 4)
-    
-    (3) Puts all the shape objects into a vector of Shape *
-
-    (4) After all the input has been read, all the shapes are drawn 
-       onto a grid object.
-***/
 using namespace std;
 #include <iostream>
 #include <vector>
