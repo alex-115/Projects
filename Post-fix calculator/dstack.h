@@ -1,6 +1,4 @@
 //filename: Dstack.h
-//Name: Alejandro Barajas
-//INGinious username: ajbarajas1
 //Summary:This is the header file of the program that contains the contents of stacks and in this case is required to store the inputs of the user.
 #ifndef MY_DSTACK_H
 #define MY_DSTACK_H
