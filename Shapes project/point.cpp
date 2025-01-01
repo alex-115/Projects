@@ -1,6 +1,4 @@
 // filename: Point.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This contains the constructor and the draw function to draw on the grid
 #include "point.h"
 #include <iostream>
