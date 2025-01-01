@@ -1,6 +1,4 @@
 // filename: BST.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file contains the functions of a BST and how they work. There are helpful comments throughout this file that are hints at what is going on within each function.
 #include <queue>
 #include <vector>
