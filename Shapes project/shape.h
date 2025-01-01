@@ -1,6 +1,4 @@
 // filename: Shape.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This contains the base class shape that has a constructor and a virutal draw function 
 #ifndef SHAPE_H
 #define SHAPE_H
