@@ -1,6 +1,5 @@
 # Weather program
 ## Name: Alejandro Barajas
-## Chico Portal/INGInious username: Ajbarajas
 ## CSCI 211 Programming and Algorithms II, Spring 2024
 ## list of the files/directories: ADT.h - Abstract data type of linked lists, ADT.cpp - funtions that create a linked list, data.h - contains a class where the data is inserted at, data.cpp - has one function that prints what's in the data set, main.cpp - the main file that has the functions to calculate the total number of days it has rained over 0.5 inches. csv.cpp csv file that contains the data of stations in Chico california over the past 6 years. weather.cpp - creates a converted file of data that can be used in main, converted2.in - the data from csv.cpp that has been converted to be useable, Makefile - compiles the code.
 ## The goal of this program is to answer one simple question, is there a recent trend in the frequency or intensity of rainstorms in Chico California?
