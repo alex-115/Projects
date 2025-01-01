@@ -1,6 +1,4 @@
 //filename: Calc.cpp
-//Name: Alejandro Barajas
-//INGinious username: ajbarajas1
 //Summary: this file executes the required operations to pass a postfix calculator, it begins reading the input of the user then runs it through different cases in order to operate as a post fix calculator using stacks.
 #include <iostream>
 #include <cctype>
