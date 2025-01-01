@@ -1,6 +1,4 @@
 // filename: Point.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This contains the constructor of point and the function to draw the point
 #ifndef POINT_H
 #define POINT_H
