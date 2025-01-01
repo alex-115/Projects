@@ -1,6 +1,4 @@
 // filename: Grid.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This contains the constructor, the void set function, and print function.
 #ifndef GRID_H
 #define GRID_H
