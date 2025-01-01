@@ -1,6 +1,4 @@
 // filename: ADT.h
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file is the header of linked lists that will hold the contents of the weather stations in Chico.
 #ifndef ADT_H
 #define ADT_H
