@@ -1,6 +1,4 @@
 //filename: Dstack.cpp
-//Name: Alejandro Barajas
-//INGinious username: ajbarajas1
 //Summary: This file has all the required operations that form stacks and executes the functions to create stacks.
 #include <iostream>
 #include "dstack.h"
