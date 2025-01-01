@@ -1,6 +1,4 @@
 // filename: Grid.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This executes the constructor, void set function, and print function.
 #include "grid.h"
 #include <iostream>
