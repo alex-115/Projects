@@ -1,6 +1,4 @@
 // filename: main.cpp
-// your name (first and last): Alejandro Barajas
-// your Chico Portal/INGInious username: Ajbarajas1
 // Short summary of the file contents: This file is the main file that will utilize the data sets and linked lists. This prorgam will recieve the input from the redirected file then input them into data sets then the data sets will be inputed into a linked list to the corressponding year and station.
 #include "ADT.h"
 #include <sstream>
